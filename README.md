@@ -10,7 +10,9 @@ This repository contains the source code for a modern login page built with HTML
 
 ## Preview
 
-![Login Page Preview](preview.png)
+![Login Page Preview](https://github.com/srrobin/demo-login-htmlcss/blob/main/images/scrnli_4_11_2024_3-36-54%20AM.png)
+![Login Page Preview](https://github.com/srrobin/demo-login-htmlcss/blob/main/images/scrnli_4_11_2024_3-19-01%20AM.png)
+![Login Page Preview](https://github.com/srrobin/demo-login-htmlcss/blob/main/images/scrnli_4_11_2024_3-19-36%20AM.png)
 
 ## Getting Started
 
